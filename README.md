@@ -7,5 +7,5 @@
 
 ## environment variables
 
-MONGO_URI : Your Mongo DB uri \n
-JWT : Your secret jwt key
+- MONGO_URI : Your Mongo DB uri
+- JWT : Your secret jwt key
